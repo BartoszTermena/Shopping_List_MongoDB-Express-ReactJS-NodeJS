@@ -1,0 +1,4 @@
+{
+    "MONGO_URI": "mongodb+srv://user2:dEIxgrvMHCfgcxmk@cluster0-lo20j.mongodb.net/test?retryWrites=true",
+    "JWT_SECRET": "secret"
+}
